@@ -3,8 +3,10 @@
 #include <stdio.h>
 #include<iostream>
 #include"compute.h"
-
+#include"analysis.h"
+using namespace std;
 int main() {
-    abc();
+    analysis();
+    //compute();//Ö÷¼ÆËã³ÌÐò
     return 0;
 }
