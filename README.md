@@ -1,3 +1,3 @@
 # wpa2-compute
-请求大佬帮助，我的pmk计算没问题，在线上工具验证过，但是就是ptk和mic计算不准，想请大佬帮忙指点一下！
-I'm asking for the help of an expert. My pmk calculation is fine. I've verified it with online tools, but my ptk and mic calculations are inaccurate. I'd like to ask an expert for some guidance!
+基本的计算功能已完成，现在正在做分析握手包的功能
+The basic computing functions have been completed, and now the function of analyzing the handshake package is being developed
